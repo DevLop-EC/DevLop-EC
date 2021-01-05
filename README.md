@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Lopez</h1>
 <h3 align="center">A passionate frontend and Backend developer from Ecuador</h3>
-<img align="center" src="https://image.freepik.com/vector-gratis/caracter-desarrollador-software-programador-desarrolla-ilustracion-codigo_80590-7310.jpg" />
+<img align="left" src="https://image.freepik.com/vector-gratis/caracter-desarrollador-software-programador-desarrolla-ilustracion-codigo_80590-7310.jpg" />
 
 - 🌱 I’m currently learning **Larave,React**
 
