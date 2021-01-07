@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Larave,React**
 
-- 👨‍💻 All of my projects are available at [christianlopez.tech](christianlopez.tech)
+- 👨‍💻 All of my projects are available at <a href="christianlopez.tech"/>christianlopez.tech</a>
 
 - 📫 How to reach me **christ97coder@gmail.com**
 
