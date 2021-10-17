@@ -1,19 +1,52 @@
-<h1 align="center">Hi 👋, I'm Christian Lopez</h1>
-<img align="center" src="https://image.freepik.com/vector-gratis/caracter-desarrollador-software-programador-desarrolla-ilustracion-codigo_80590-7310.jpg" />
-<h3 align="center">A passionate frontend and Backend developer from Ecuador</h3>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">I'm Christian Lopez</h1>
+ 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+[![Twitter Badge](https://img.shields.io/badge/-@codeByChrist-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codeByChrist)](https://twitter.com/codeByChrist) [![Linkedin Badge](https://img.shields.io/badge/-christdevlop-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christdevlop/)](https://www.linkedin.com/in/christdevlop/)
+[![Gmail Badge](https://img.shields.io/badge/-christ97coder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christ97coder@gmail.com)](mailto:christ97coder@gmail.com)
 
 
-- 🌱 I’m currently learning **Larave,React**
+I am Christian Lopez 😃. I am from Guayaquil, Ecuador and currently doing my B.Tech from Career Point University,Ecotec 🏫.I love to explore and learn about new things.
 
-- 👨‍💻 All of my projects are available at <a href="christianlopez.tech"/>christianlopez.tech</a>
 
+<!-- - 🔭 I’m currently working on **vKarma Webapp** -->
+- 🌱 I’m currently learning ... **C# NET, React.js and Laravel**
+- 💬 Ask me about ... **Web Develpoment**
+- 😄 Employement ... **Open for intern opportunities**
+- ⚡ Fun fact ... **Soccer, Anime and VideoGames**❤
 - 📫 How to reach me **christ97coder@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h4>Backend Languages: </h4>
 <p align="left">
-<a href="https://twitter.com/christbsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="christbsc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/christian-adri%c3%a1n-l%c3%b3pez-aguirre-630a4318b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/christian-adri%c3%a1n-l%c3%b3pez-aguirre-630a4318b/" height="30" width="40" /></a>
+ <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt=cplusplus width="80" height="60"/>
+ <img style="margin: auto;" src="https://programacion.net/files/article/20170602010623_csharp.png" alt=cplusplus width="140" height="60"/>
+ <img style="margin: auto;" src="https://cdn.okitup.com/wp-content/uploads/2019/10/logo_laravel.png" alt=cplusplus width="140" height="80"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h4>Skills and Tools: </h4>
+<p align="left">
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" alt=postgresql width="60" height="60"/> 
+  <img style="margin: auto;" src="https://mvpcluster.com/wp-content/uploads/2016/04/sql-server-1.png" alt=postgresql width="60" height="60"/> 
+  <img style="margin: auto;" src="https://miro.medium.com/max/2000/1*ipwpqQrHz0Lkd_5setXQCQ.png" alt=postgresql width="120" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=heroku width="60" height="60"/>
+ 
+</p>
+
+<h4>Desktop Environment: </h4>
+<p align="left">
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
+  <img style="margin: auto;" src="https://www.oscdigital.org/sites/default/files/images/visual-studio-2013-logo.png" alt=atom width="120" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
+</p>
+
+
