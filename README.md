@@ -46,6 +46,15 @@ I am Christian Lopez 😃. I am from Guayaquil, Ecuador and currently doing my B
 	
 </p>
 
+## <img src="./assets/Stats.gif" width="60"> ***About Some Stats***
+<div align="center">
+<img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=DevLop-EC&show_icons=true&theme=algolia" alt="Le Ha Gia Bao's github stats" title="My statistics"/>
+<img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLop-EC&layout=compact&langs_count=10&theme=algolia" alt="Le Ha Gia Bao's github most used languages" title="My most used languages"/>
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevLop-EC&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 [![DevLop-EC's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DevLop-EC&&theme=xcode)](https://github.com/DevLop-EC)
 
