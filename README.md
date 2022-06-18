@@ -1,5 +1,6 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">I'm Christian Lopez</h1>
+<h1 align="center">Hi 👋, I'm Christian Lopez</h1>
+<h3 align="center">A passionate web developer from Ecuador</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
