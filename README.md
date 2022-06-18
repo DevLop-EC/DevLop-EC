@@ -33,7 +33,7 @@ I am Christian Lopez 😃. I am from Guayaquil, Ecuador and currently doing my B
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" alt=postgresql width="60" height="60"/> 
   <img style="margin: auto;" src="https://mvpcluster.com/wp-content/uploads/2016/04/sql-server-1.png" alt=postgresql width="60" height="60"/> 
-  <img style="margin: auto;" src="https://miro.medium.com/max/2000/1*ipwpqQrHz0Lkd_5setXQCQ.png" alt=postgresql width="120" height="60"/> 
+ <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
