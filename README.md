@@ -44,10 +44,12 @@ I am Christian Lopez 😃. I am from Guayaquil, Ecuador and currently doing my B
 
 <h4>Desktop Environment: </h4>
 <p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/DevLop-EC/DevLop-EC/master/icons/vsc.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://www.oscdigital.org/sites/default/files/images/visual-studio-2013-logo.png" alt=atom width="120" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/DevLop-EC/DevLop-EC/master/icons/linux.png" alt=linux width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/DevLop-EC/DevLop-EC/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
+
+
 
 
