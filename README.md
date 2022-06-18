@@ -20,8 +20,8 @@ I am Christian Lopez 😃. I am from Guayaquil, Ecuador and currently doing my B
 <h4>Backend Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt=cplusplus width="80" height="60"/>
- <img style="margin: auto;" src="https://programacion.net/files/article/20170602010623_csharp.png" alt=cplusplus width="140" height="60"/>
- <img style="margin: auto;" src="https://cdn.okitup.com/wp-content/uploads/2019/10/logo_laravel.png" alt=cplusplus width="140" height="80"/>
+ <img style="margin: auto;" src="https://programacion.net/files/article/20170602010623_csharp.png" alt=cplusplus width="130" height="60"/>
+ <img style="margin: auto;" src="https://cdn.okitup.com/wp-content/uploads/2019/10/logo_laravel.png" alt=cplusplus width="140" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
@@ -33,7 +33,7 @@ I am Christian Lopez 😃. I am from Guayaquil, Ecuador and currently doing my B
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" alt=postgresql width="60" height="60"/> 
   <img style="margin: auto;" src="https://mvpcluster.com/wp-content/uploads/2016/04/sql-server-1.png" alt=postgresql width="60" height="60"/> 
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
