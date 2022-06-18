@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Lopez</h1>
-<h3 align="center">A passionate web developer from Ecuador</h3>
+<h3 align="center">Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
 
@@ -40,6 +40,8 @@ I am Christian Lopez 😃. I am from Guayaquil, Ecuador and currently doing my B
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=heroku width="60" height="60"/>
  
+
+	
 </p>
 
 
