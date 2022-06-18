@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Ecuador</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 
 [![Twitter Badge](https://img.shields.io/badge/-@codeByChrist-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codeandoandoec)](https://twitter.com/codeandoandoec) [![Linkedin Badge](https://img.shields.io/badge/-christdevlop-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christdevlop/)](https://www.linkedin.com/in/christdevlop/)
 [![Gmail Badge](https://img.shields.io/badge/-christ97coder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christ97coder@gmail.com)](mailto:christ97coder@gmail.com)
