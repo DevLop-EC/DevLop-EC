@@ -19,32 +19,66 @@ I am Christian Lopez 😃. I am from Guayaquil, Ecuador and currently doing my B
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Soccer, Anime and VideoGames**❤
 - 📫 How to reach me **christ97coder@gmail.com**
-<h4>Backend Languages: </h4>
-<p align="left">
- <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt=cplusplus width="80" height="60"/>
- <img style="margin: auto;" src="https://programacion.net/files/article/20170602010623_csharp.png" alt=cplusplus width="130" height="60"/>
- <img style="margin: auto;" src="https://cdn.okitup.com/wp-content/uploads/2019/10/logo_laravel.png" alt=cplusplus width="140" height="60"/>
-</p>
 
-<h4>Skills and Tools: </h4>
-<p align="left">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" alt=postgresql width="60" height="60"/> 
-  <img style="margin: auto;" src="https://mvpcluster.com/wp-content/uploads/2016/04/sql-server-1.png" alt=postgresql width="60" height="60"/> 
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=heroku width="60" height="60"/>
+<h4>🚀💻 Technologies & Tools </h4>
+</main>
+        <!-- HTML -->
+        <a href="https://github.com/DevLop-EC?tab=repositories" target="_blank"><img alt="HTML"
+                        src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+        </a>
+        <!-- CSS  -->
+        <a href="https://github.com/DevLop-EC?tab=repositories" target="_blank"><img alt="CSS"
+                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+        </a>
+        <!-- JavaScript -->
+        <a href="https://github.com/DevLop-EC?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+	</a>
+	 <!-- React -->
+        <a href="https://github.com/DevLop-EC?tab=repositories" target="_blank"><img alt="React"
+                        src="https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=React&logoColor=white">
+	</a>
+	 <!-- Laravel -->
+        <a href="https://github.com/DevLop-EC?tab=repositories" target="_blank"><img alt="Laravel"
+                        src="https://img.shields.io/badge/-Laravel-C51A4A?style=flat-square&logo=Laravel&logoColor=white">
+	</a>
+	 <!-- .Net Core -->
+        <a href="https://github.com/DevLop-EC?tab=repositories" target="_blank"><img alt="Net Core"
+                        src="https://img.shields.io/badge/-.Net Core-darkblue?style=flat-square&logo=.Net&logoColor=white">
+	</a>
+	 <!-- NodeJs -->
+        <a href="https://github.com/DevLop-EC?tab=repositories" target="_blank"><img alt="NodeJs"
+                        src="https://badges.aleen42.com/src/node.svg">
+	</a>
+	<br/>
+	 <!-- Tailwind -->
+        <a href="https://github.com/DevLop-EC?tab=repositories" target="_blank"><img alt="Tailwind"
+                        src="https://badges.aleen42.com/src/tailwindcss.svg">
+	</a>
+	 <!-- Git -->
+        <a href="https://github.com/DevLop-EC?tab=repositories" target="_blank"><img alt="Net Core"
+                        src="https://img.shields.io/badge/-Git-darkorange?style=flat-square&logo=Git&logoColor=white">
+	</a>
+	 <!-- GitHub -->
+        <a href="https://github.com/DevLop-EC?tab=repositories" target="_blank"><img alt="Net Core"
+                        src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white">
+	</a>
+	 <!-- VSCode -->
+        <a href="https://github.com/DevLop-EC?tab=repositories" target="_blank"><img alt="Net Core"
+                        src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code">
+	</a>
+	 <!-- Sql Server -->
+        <a href="https://github.com/DevLop-EC?tab=repositories" target="_blank"><img alt="Sql Server"
+                        src="https://img.shields.io/badge/-SQLServer-181717?style=flat-square&logo=SQLServer&logoColor=white">
+	</a>
+	 <!-- MYsql -->
+        <a href="https://github.com/DevLop-EC?tab=repositories" target="_blank"><img alt="MySql"
+                        src="https://img.shields.io/badge/-MySql-007ACC?style=flat-square&logo=MySql&logoColor=white">
+	</a>
  
-
 	
-</p>
+ </main>
+
 
 ## <img src="./assets/Stats.gif" width="60"> ***About Some Stats***
 <div align="center">
